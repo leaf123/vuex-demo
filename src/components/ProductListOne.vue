@@ -8,7 +8,7 @@
             <span class="price">${{product.price}}</span>
         </li>
       </ul>
-      <button @click="reducePrice(4)">商品降价16666</button>
+      <button @click="reducePrice(4)">商品降价</button>
   </div>
 </template>
 <script>
